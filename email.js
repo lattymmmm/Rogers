@@ -1,3 +1,3 @@
 (function () {
-    emailjs.init('oHmTO6SUaVfdqh-GB-');
+    emailjs.init('oHmTO6SUaVfdqh-GB');
 })();
